@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDE_VendorOnboarding_SyncProcess", "JDE_VendorOnboarding_SyncProcess\JDE_VendorOnboarding_SyncProcess.csproj", "{ECE64FAA-DEF0-4B11-9F9F-D960CF209009}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryan.VendorOnboarding.Domain", "Ryan.Vendorboarding.Domain1\Ryan.VendorOnboarding.Domain.csproj", "{D0CA521E-3257-44A8-8760-A7ED0ADDADED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ECE64FAA-DEF0-4B11-9F9F-D960CF209009}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECE64FAA-DEF0-4B11-9F9F-D960CF209009}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECE64FAA-DEF0-4B11-9F9F-D960CF209009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CA521E-3257-44A8-8760-A7ED0ADDADED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CA521E-3257-44A8-8760-A7ED0ADDADED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CA521E-3257-44A8-8760-A7ED0ADDADED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CA521E-3257-44A8-8760-A7ED0ADDADED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
